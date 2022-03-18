@@ -1,4 +1,4 @@
-# Pure-Javascript-Todo-list
+# Pure-Javascript-Todo-App
 
 ## :wave: Hello Everyone.
 
